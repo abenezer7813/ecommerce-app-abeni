@@ -14,7 +14,7 @@ const GallerySection = () => {
             <Image
             width={500}
             height={500}
-            src={`/${image}`}
+            src={`./${image}`}
             alt={`Gallery Image ${index+1}`}/>
            
           </div>
